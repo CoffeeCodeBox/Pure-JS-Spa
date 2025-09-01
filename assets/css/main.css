@@ -1,0 +1,7 @@
+div{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-content: center;
+    background: rgb(255, 85, 47);
+}
